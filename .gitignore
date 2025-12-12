@@ -1,2 +1,6 @@
 # binary files for excercise 1.2
 hello_world/main
+
+# binary files for excercise 1.3
+*/target/
+*/Cargo.lock
